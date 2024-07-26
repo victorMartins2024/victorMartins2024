@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-```java
+```C
    public class MechanicalEngineer {
    private String name;
    private String role;
