@@ -1,24 +1,62 @@
 ## Hi there 👋
 
-```C
-   public class MechanicalEngineer {
-   private String name;
-   private String role;
-   private String[] languageSpoken;
- 
-   public SoftwareEngineer() {
-       this.name = "Victor Hugo Martins";
-       this.role = "Project Engineering Assistant";
-       this.languageSpoken = new String[]{"pt_BR", "en_US"};
-   }
- 
-   public void sayHi() {
-       System.out.println("Thanks for dropping by. Contact me to code together and build something new :)");
-   }
- 
-   public static void main(String[] args) {
-       MechanicalEngineer me = new MechanicalEngineer();
-       me.sayHi();
-   }
-}
- ```
+<h1 align="left">Sobre mim:</h1>
+
+###
+
+<p align="left">Olá,<br><br>Seja bem-vindo(a)!<br><br>Meu nome é Victor Hugo Martins e sou Engenheiro Mecânico, apaixonado por Engenharia e Tecnologia. Com entusiasmo pelas constantes inovações na área, estou sempre aprimorando meus conhecimentos e habilidades técnicas, buscando facilitar inovações e melhorar resultados. Atualmente, trabalho como Assistente de Engenharia de Projetos, com foco em Sistemas Embarcados, na GreenTech Soluções IntraLogísticas.</p>
+
+###
+
+<h1 align="left">About me:</h1>
+
+###
+
+<p align="left">Hello,<br><br>Welcome!<br><br>My name is Victor Hugo Martins, and I am a Mechanical Engineer with a passion for Engineering and Technology. Enthusiastic about the constant innovations in the field, I am always enhancing my technical knowledge and skills, aiming to facilitate innovations and improve results. Currently, I work as a Project Engineering Assistant, focusing on Embedded Systems, at GreenTech IntraLogistics Solutions.</p>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=victorMartins2024&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="" alt="stats graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=victorMartins2024&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="99" alt="languages graph"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="mailto:victorhugomartins2602@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/victor-hugo-martins-437947196/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:victorhugoalemao@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
+  </a>
+</div>
+
+###
